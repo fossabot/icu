@@ -9,6 +9,7 @@ The ICU project is under the stewardship of [The Unicode Consortium](https://www
 - User Guide: https://unicode-org.github.io/icu/
 
 ![ICU Logo](./tools/images/iculogo_64.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTurki999999%2Ficu.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTurki999999%2Ficu?ref=badge_shield)
 
 ### 🔴🔴🔴 Special Notice About Branch Renaming 🔴🔴🔴
 Around March 24-25, 2021 we renamed the `master` branch to `main`. You may need to rename your branch in your local git repo and change your normal git command to reflect this change. See also https://github.com/github/renaming
@@ -39,3 +40,6 @@ Please see [./icu4c/LICENSE](./icu4c/LICENSE) (C and J are under an identical li
 Unicode and the Unicode Logo are registered trademarks 
 of Unicode, Inc. in the U.S. and other countries.
 [Terms of Use and License](http://www.unicode.org/copyright.html)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTurki999999%2Ficu.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTurki999999%2Ficu?ref=badge_large)
